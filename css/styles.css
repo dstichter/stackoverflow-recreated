@@ -28,12 +28,6 @@ by Darryl Mendonez, David Stichter, Sean Conaty, and Shreyans Patel */
 	border-radius: 0px !important;
 }
 
-.sign-up {
-	margin-left: 250px;
-}
-
 .form-control {
 	border-radius: 0px;
-	padding-right:50px;
-	height: 30px;
 }
